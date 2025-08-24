@@ -1,0 +1,338 @@
+// 0 - MAIN MENU
+mainmenu.bmp
+-
+-
+Iniciar
+1
+-
+-
+-
+-
+-
+Una colaboración entre
+ArJorge1987 y ApretaEL5
+
+// 1 - Bliblioteca
+biblio.bmp
+-
+-
+Siguiente
+2
+-
+-
+-
+-
+-
+Laura Cruz esta leyendo
+libros antigüos en la
+British Library
+// 2 - Bliblioteca
+biblio.bmp
+-
+-
+Siguiente
+3
+-
+-
+-
+-
+-
+En la bibliteca existe
+una seccion de libros de
+ocultimsmo y prohibidos
+// 3 - Bliblioteca
+biblio.bmp
+-
+-
+Siguiente
+4
+-
+-
+-
+-
+-
+Los cuales contienen referencias
+donde podrian estar las
+estatuillas de Cthulhu
+// 4 - Bliblioteca
+biblio.bmp
+-
+-
+Investigar
+5
+Esperar
+8
+-
+-
+-
+La bibliotecaria esta vigilando
+que deberia hacer?
+
+// 5 - Bliblioteca
+biblio2.bmp
+-
+-
+Siguiente
+6
+-
+-
+-
+-
+-
+Laura de adentra en la zona
+prohibida, pero una voz la
+detiene
+// 6 - Bliblioteca
+biblio2.bmp
+-
+btecaria.bmp
+Siguiente
+7
+-
+-
+-
+-
+Bibliotecaria
+Señorita, tiene autorización
+para entrar en ese lugar?
+
+// 7 - Bliblioteca
+biblio2.bmp
+laura.bmp
+btecaria.bmp
+Siguiente
+4
+-
+-
+-
+-
+Laura
+No sabia que esta zona estaba
+restringida.
+
+// 8 - Bliblioteca
+biblio.bmp
+-
+-
+Investigar
+5
+Esperar
+9
+-
+-
+-
+La bibliotecaria parece
+ansiosa, que deberia
+hacer?
+// 9 - Bliblioteca
+biblio.bmp
+-
+-
+Investigar
+10
+Esperar
+9
+-
+-
+-
+La bibliotecaria salio a
+fumar, es nuestro momento
+de adentrarnos
+// 10 - Bliblioteca
+libro.bmp
+-
+-
+-
+-
+Abrir Libro
+11
+Robar Mapa
+15
+-
+Encontamos un mapa, y un
+gran libro que parece
+de utilidad
+// 11 - Bliblioteca
+libro.bmp
+-
+-
+-
+-
+Sig. Pag.
+12
+Robar Mapa
+15
+-
+Cuidado con lo confundir
+la construccion de la
+estatuilla en el templo
+// 12 - Bliblioteca
+libro.bmp
+-
+-
+-
+-
+Sig. Pag.
+13
+Robar Mapa
+15
+-
+El orden es escencial
+para invocar al dios
+adecuado
+// 13 - Bliblioteca
+libro.bmp
+-
+-
+-
+-
+Sig. Pag.
+14
+Robar Mapa
+15
+-
+La luz puede segar tu
+razomiento mas alla de
+lo que puedes soportar
+// 14 - Bliblioteca
+libro.bmp
+-
+-
+-
+-
+Inicio Libro
+11
+Robar Mapa
+15
+-
+Mientras que el miedo
+puede ser sinonimo de
+precaución
+// 15 - Bliblioteca
+libro.bmp
+-
+-
+-
+-
+-
+-
+Siguiente
+16
+-
+Robas el mapa mientras
+ves como esta volviendo
+la bibliotecaria
+// 16 - Bliblioteca
+biblio.bmp
+-
+-
+-
+-
+-
+-
+Siguiente
+17
+-
+Vuelves rapidamente con
+el mapa, al lugar donde
+estaban tu cosas
+// 17 - Bliblioteca
+biblio.bmp
+-
+-
+-
+-
+-
+-
+Siguiente
+18
+-
+Guardas el mapa dentro del
+libro que estabas leyendo
+y te retiras de la biblioteca
+// 18 - Bliblioteca
+biblio.bmp
+-
+btecaria.bmp
+-
+-
+-
+-
+Siguiente
+19
+Bibliotecaria
+Señorita puedo ver que lleva
+debajo del brazo
+
+// 19 - Bliblioteca
+biblio.bmp
+laura.bmp
+btecaria.bmp
+-
+-
+-
+-
+Siguiente
+20
+Laura
+Es el libro "Español-Ingles"
+con el que entre que me
+registro, recuerda?
+// 20 - Bliblioteca
+biblio.bmp
+laura.bmp
+btecaria.bmp
+-
+-
+-
+-
+Siguiente
+21
+Bibliotecaria
+Es verdad, disculpe mi
+desconfianza, es que con
+los latinos nunca se sabe
+// 21 - Viaje
+avion.bmp
+-
+-
+-
+-
+-
+-
+Siguiente
+22
+-
+Podra Laura encontrar los
+secretos de Cthulhu?
+
+// 22 - Viaje
+avion.bmp
+-
+-
+-
+-
+-
+-
+Siguiente
+23
+-
+Podra Laura encontrar una
+blibliotecaria menos
+racista?
+// 23 - Viaje
+avion.bmp
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Todo eso y mucho mas en
+la version completa del
+juego.
+
+
